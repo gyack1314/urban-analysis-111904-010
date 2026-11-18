@@ -2,13 +2,13 @@
   "files": [
     {
       "path": "actions.json",
-      "bytes": 209,
-      "sha256": "f10c83f71cee069d53450c38fcfd9b7ea353c539f822548338233646cfdca665"
+      "bytes": 207,
+      "sha256": "1eb1fbb0854b30980b7a70c5be85135e965d4972661aeca6b2e66627b513cadf"
     },
     {
       "path": "basket_versions.parquet",
       "bytes": 5985,
-      "sha256": "c2bc75f467eb63ec970c953f85772b545d1a31d46451042eae574429f145c1f5",
+      "sha256": "c8d900ddf9c010f91c14a98beb62a43805bc29c891c72c70654eaebcdff27687",
       "rows": 5
     },
     {
@@ -55,7 +55,7 @@
     {
       "path": "seed.json",
       "bytes": 105301,
-      "sha256": "e332a99a518ce6f716901935b9be7bddd8887481a68abe897e929e56435bab84"
+      "sha256": "92fdf9539c429e48e4c4636f7a81f6c1558c8b05df9f2e4db9ad1800759205b1"
     },
     {
       "path": "work_quantities.parquet",

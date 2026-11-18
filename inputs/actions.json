@@ -1,9 +1,9 @@
 [
   {
     "action": "correct_purchase",
-    "purchase": "P017",
-    "old_unit_price_cny": 26.58,
-    "new_unit_price_cny": 28.71,
+    "purchase": "P102",
+    "old_unit_price_cny": 26.3,
+    "new_unit_price_cny": 28.4,
     "known_at": "2025-10-22",
     "reason": "发票单价勘误"
   }
