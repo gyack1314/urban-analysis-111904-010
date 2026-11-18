@@ -1,0 +1,67 @@
+{
+  "files": [
+    {
+      "path": "actions.json",
+      "bytes": 209,
+      "sha256": "f10c83f71cee069d53450c38fcfd9b7ea353c539f822548338233646cfdca665"
+    },
+    {
+      "path": "basket_versions.parquet",
+      "bytes": 5985,
+      "sha256": "c2bc75f467eb63ec970c953f85772b545d1a31d46451042eae574429f145c1f5",
+      "rows": 5
+    },
+    {
+      "path": "bridges.parquet",
+      "bytes": 1588,
+      "sha256": "7559087ec89d79c5bd6f3ba03df9dcd7c64c09799ce4d296f6ae17c0c1f9bd0c",
+      "rows": 2
+    },
+    {
+      "path": "catalog.parquet",
+      "bytes": 6855,
+      "sha256": "826310f327bcee4f9590aca2ea8055498476e765fd4d694534e12314c6afbb77",
+      "rows": 7
+    },
+    {
+      "path": "contract_terms.parquet",
+      "bytes": 4244,
+      "sha256": "5cdd9cbd7ab3e50d7e3445bca794de6c907b6dde828f2a0455ea6d46076fed80",
+      "rows": 3
+    },
+    {
+      "path": "offers.parquet",
+      "bytes": 142325,
+      "sha256": "6aa11ea4a050bbd4b39ff448a59b19ff6991ccf2919c8fb7545ba28d9671c58b",
+      "rows": 159
+    },
+    {
+      "path": "price-context.json",
+      "bytes": 428,
+      "sha256": "c1f08917fca16186f2d73de7a861138b0c87e33ba34e59780b9b5358c1447efb"
+    },
+    {
+      "path": "published_notices.parquet",
+      "bytes": 1926,
+      "sha256": "6ba4525afb8b40f292637e66d9eb54aeaa0927053bfd249c7645d968e5591c38",
+      "rows": 2
+    },
+    {
+      "path": "purchases.parquet",
+      "bytes": 161780,
+      "sha256": "6f7cfcbd2bfa2961d60cda4d0886dfe90b9df8b29a8f6e1faeee85b78f55f7ef",
+      "rows": 142
+    },
+    {
+      "path": "seed.json",
+      "bytes": 105301,
+      "sha256": "e332a99a518ce6f716901935b9be7bddd8887481a68abe897e929e56435bab84"
+    },
+    {
+      "path": "work_quantities.parquet",
+      "bytes": 7868,
+      "sha256": "181b7608dc2140c4e84ec8b8d4588713a3d1203584a773c88ba7ab39f8d40c94",
+      "rows": 18
+    }
+  ]
+}

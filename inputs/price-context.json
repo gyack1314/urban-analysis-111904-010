@@ -1,0 +1,14 @@
+{
+  "research_months": [
+    "2025-01",
+    "2025-09"
+  ],
+  "independent_months": [
+    "2025-10",
+    "2025-12"
+  ],
+  "as_of": "2025-10-20",
+  "currency": "CNY",
+  "tax_note": "实际成交单价不含税运，税额为该行总额，先明确研究/合同口径；不提供品质调整因子",
+  "replacement_scope": "C-flex允许同用途替代但需证明品质可比，C-fixed与C-closed不可自动换篮"
+}
